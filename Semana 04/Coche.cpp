@@ -1,18 +1,41 @@
 #include <iostream>
 using namespace std;
+#include <cstring>
 
 class Auto{
     private:
         float velocidad;
+        char color[30];
     public:
+        Auto();
+        Auto(float, char *);
+        ~Auto();
         void acelerar(float);
         void desacelerar(float);
         void frenar();
+        void mostrar();
         //Getters
         float getVelocidad();
-        //Setters
 };
 
+Auto::Auto(){
+    velocidad = 0;
+    strcpy(color, "FUCSIA");
+}
+Auto::Auto(float valor, char *nombre){
+    velocidad = valor;
+    if (valor < 0){
+        velocidad = 0;
+    }
+    strcpy(color, nombre);
+}
+Auto::~Auto(){
+    cout << "Elimino el auto a " << velocidad << "km/h" << endl;
+}
+void Auto::mostrar(){
+    cout << "Velocidad: " << velocidad << endl;
+    cout << "Color    : " << color << endl;
+}
 void Auto::acelerar(float valor){
     if (valor > 0){
         velocidad += valor;
@@ -35,20 +58,11 @@ float Auto::getVelocidad(){
     return velocidad;
 }
 
-
 int main(){
-    Auto coche, autito;
-
-    coche.acelerar(10);
-    coche.acelerar(30);
-
-    coche.desacelerar(15);
-    coche.desacelerar(15);
-    coche.desacelerar(15);
-
-    autito.acelerar(100);
-
-
-    cout << coche.getVelocidad() << endl;
-    cout << autito.getVelocidad() <<endl;
+    Auto a;
+    Auto b(100, "Negro");
+    a.mostrar();
+    cout << endl;
+    b.mostrar();
+    cout << endl;
 }
