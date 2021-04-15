@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1618526218 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 02/Composicion/main.cpp
+	<iostream>
+	"Fecha.h"
+
+1618526083 /home/angel/UTN/Github/laboratorio2-20211c/Semana 02/Composicion/include/Fecha.h
+
+1618526278 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 02/Composicion/src/Fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1618526772 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 02/Composicion/src/Alumno.cpp
+	<cstring>
+	<iostream>
+	"Alumno.h"
+
+1618526720 /home/angel/UTN/Github/laboratorio2-20211c/Semana 02/Composicion/include/Alumno.h
+	"Fecha.h"
+
