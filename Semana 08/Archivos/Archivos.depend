@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1619132513 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 08/Archivos/src/persona.cpp
+	<iostream>
+	<cstring>
+	"persona.h"
+
+1619739018 /home/angel/UTN/Github/laboratorio2-20211c/Semana 08/Archivos/include/persona.h
+
+1620342537 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 08/Archivos/src/Docente.cpp
+	<iostream>
+	<cstring>
+	"Docente.h"
+
+1620342553 /home/angel/UTN/Github/laboratorio2-20211c/Semana 08/Archivos/include/Docente.h
+	"persona.h"
+
+1620341787 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 08/Archivos/main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"Docente.h"
+	"persona.h"
+
