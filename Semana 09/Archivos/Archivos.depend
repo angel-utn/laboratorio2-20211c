@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1619132513 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 08/Archivos/src/persona.cpp
+	<iostream>
+	<cstring>
+	"persona.h"
+
+1619739018 /home/angel/UTN/Github/laboratorio2-20211c/Semana 08/Archivos/include/persona.h
+
+1620342537 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 08/Archivos/src/Docente.cpp
+	<iostream>
+	<cstring>
+	"Docente.h"
+
+1620342553 /home/angel/UTN/Github/laboratorio2-20211c/Semana 08/Archivos/include/Docente.h
+	"persona.h"
+
+1620341787 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 08/Archivos/main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"Docente.h"
+	"persona.h"
+
+1619132513 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 09/Archivos/src/persona.cpp
+	<iostream>
+	<cstring>
+	"persona.h"
+
+1619739018 /home/angel/UTN/Github/laboratorio2-20211c/Semana 09/Archivos/include/persona.h
+
+1620948976 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 09/Archivos/src/Docente.cpp
+	<iostream>
+	<cstring>
+	"Docente.h"
+	"rlutil.h"
+	"funciones.h"
+
+1620947323 /home/angel/UTN/Github/laboratorio2-20211c/Semana 09/Archivos/include/Docente.h
+	"persona.h"
+
+1620947316 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 09/Archivos/main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"Docente.h"
+	"persona.h"
+	"rlutil.h"
+
+1620943285 /home/angel/UTN/Github/laboratorio2-20211c/Semana 09/Archivos/include/rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1620945073 /home/angel/UTN/Github/laboratorio2-20211c/Semana 09/Archivos/include/funciones.h
+
+1620945410 source:/home/angel/UTN/Github/laboratorio2-20211c/Semana 09/Archivos/src/funciones.cpp
+	"funciones.h"
+

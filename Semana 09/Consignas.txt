@@ -1,0 +1,7 @@
+- Validar que no se repita el DNI del docente en el archivo.
+
+- Listar apellido y nombre de todos los docentes que tengan un sueldo mayor al promedio. Listar también el promedio.
+
+- Listar apellido y nombre y sueldo de los docentes ordenado de mayor a menor por sueldo.
+
+- Listar por DNI.

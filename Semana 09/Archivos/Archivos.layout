@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include/rlutil.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1010" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1234" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="src/Docente.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4442" topLine="192" />
+		</Cursor>
+		<Folding>
+			<Collapse line="189" />
+		</Folding>
+	</File>
+	<File name="include/persona.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="85" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include/Docente.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="608" topLine="15" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="6bba4730609d9175003f358100000002=*0;Archivos:main.cpp,1;Archivos:include/Docente.h,2;Archivos:src/Docente.cpp,3;Archivos:include/rlutil.h,4;Archivos:include/persona.h,5;Archivos:include/funciones.h,6;Archivos:src/funciones.cpp@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=498;besth=316;minw=498;minh=316;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=6bba4730609d9175003f358100000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+</CodeBlocks_layout_file>
